@@ -1,3 +1,3 @@
 # calculator
 
-A calculator application
+A calculator application.
