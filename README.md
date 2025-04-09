@@ -5,7 +5,6 @@ A simple calculator application built using Flutter. This project demonstrates t
 ## Features
 - Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
 - User-friendly interface.
-- Cross-platform support (iOS, Android).
 
 ## Installation
 1. Clone the repository:
